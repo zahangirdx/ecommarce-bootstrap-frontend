@@ -1,3 +1,15 @@
+body{
+    cursor: url('images/cursor/cursor.png'), auto;
+}
+.btn{
+    background-color: #ff009d;
+}
+.btn:hover{
+    background-color: #ff009d;
+}
+.price{
+    color: #ff009d;
+}
 .carousel-item{
     background-color: #FCEAE8;
 }
@@ -6,6 +18,9 @@
 }
 .subscribe{
     background-color: #FCEAE8;
+}
+.p-5 {
+    padding: 7rem!important;
 }
 form{
     margin-top: -13px;
